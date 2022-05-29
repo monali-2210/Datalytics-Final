@@ -1,5 +1,5 @@
 ![Capture](https://acehacker.com/microsoft/engage2022/img/hero.png)
-# Project-Aperture
+# Datalytics
 ### `THEME : DATA ANALYSIS`
 
 `Datalytics` This project is a submission to one of the problem statements of Microsoft Engage Mentorship Program - 2022 which intends to provide a platform for the automotive industries to take informative decisions and improve their bussiness.
