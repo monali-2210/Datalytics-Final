@@ -1,0 +1,48 @@
+.dashboard-main{
+    padding: 1.7rem;
+    background-color: #eeeeee;
+    grid-area: main;
+}
+
+.about-user {
+    display: flex;
+    background: #141E61;
+    width: 100%;
+    padding: 4rem;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-bottom: 1.2rem;
+    justify-content: space-around;
+    color: white;
+}
+
+.num-stats {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+    width: 24%;
+    border-radius: 12px;
+    color: #eeeeee;
+    background: #141E61;
+}
+
+.num-stats i{
+    font-size: 30px;
+}
+
+.main-stats {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.main-charts {
+    display: flex;
+    flex-direction: row;
+    padding-top: 3rem;
+    height: 10%;
+    width: 50%;
+}

@@ -1,0 +1,16 @@
+.svg-cntrl{
+    height: 40vh;
+    width: 40vh;
+}
+
+section.section-404 {
+    text-align: center;
+    vertical-align: middle;
+    background: #8576bf;
+    height: 100vh;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+

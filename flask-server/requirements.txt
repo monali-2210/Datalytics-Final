@@ -1,0 +1,17 @@
+Cython==0.29.24
+Flask==1.1.2
+zipp==3.6.0
+importlib_metadata==4.8.1
+keyring==23.1.0
+docutils==0.17.1
+toml==0.10.2
+lxml==4.6.3
+numpy==1.20.3
+brotlipy==0.7.0
+tornado==6.1
+cryptography==3.4.8
+brotli==1.0.9
+lockfile==0.12.2
+ordereddict==1.1
+protobuf==4.21.1
+pyOpenSSL==22.0.0
